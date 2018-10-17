@@ -1,0 +1,35 @@
+{
+	"name": "Portfolio-online",
+	"version": "0.1.0",
+	"description": "Personal works gallery",
+	"dependencies": {
+		"browser-sync": "^2.24.5",
+		"eslint": "^4.19.1",
+		"gulp": "^4",
+		"gulp-autoprefixer": "*",
+		"gulp-clean-css": "*",
+		"gulp-combine-mq": "*",
+		"gulp-concat": "*",
+		"gulp-notify": "*",
+		"gulp-plumber": "*",
+		"gulp-rename": "*",
+		"gulp-sass": "*",
+		"gulp-sourcemaps": "*",
+		"gulp-uglify": "*",
+		"gulp-util": "*",
+		"gulp-zip": "*",
+		"run-sequence": "*"
+	},
+	"devDependencies": {},
+	"scripts": {
+    "start": "gulp",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com:GemmV/portfolio.git"
+	},
+	"author": "GemmV",
+	"license": "MIT",
+	"homepage": "https://github.com/GemmV/portfolio.git"
+}
